@@ -1,5 +1,5 @@
 
-# Project Link: [Link](https://letschatit.netlify.app/)
+# Chat App: [Link](https://letschatit.netlify.app/)
 
 * Use the  following credentials to login
 
