@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]( https://justvideoit.netlify.app/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-This is a video calling Web application where users can call other user via Video and Audio Calling or Text-Messaging. Their is also real time chat functionality.
+This is a video calling Web application where users can call other user via Video and Audio Calling or Text-Messaging. There is also real time chat functionality.
 
 **Agile Methodology was used for building this project.**
 The project includes -
