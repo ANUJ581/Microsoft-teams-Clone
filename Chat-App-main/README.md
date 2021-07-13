@@ -1,11 +1,10 @@
 
-# Project Link: [Link](https://justchatit.netlify.app/)
-Person1 username:will password:123456789\
-Person2 username:rock password:123456789
+# Project Link: [Link](https://letschatit.netlify.app/)
 
-# Getting Started with Create React App
+* Use the  following credentials to login
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+username - Anuj  Password - 123456
+
 
 ## Available Scripts
 
