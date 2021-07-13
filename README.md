@@ -1,2 +1,1 @@
-# Video-Chat-App
-This is a video calling application where users can call other user and will also have the capabiltiy to mute their mic and audio. Their is also real time chat functionality.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]( https://video-chat-mihir.vercel.app/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]( https://video-chat-mihir.vercel.app/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]( https://video-chat-mihir.vercel.app/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)]( https://video-chat-mihir.vercel.app/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
